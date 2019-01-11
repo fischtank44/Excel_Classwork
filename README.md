@@ -1,3 +1,4 @@
-# Engine_training_data
-This will contain the training engine data from the NASA study.  
-# this is line 2
+# Excel Data for Classwork
+These files were uploaded to Github and the links were submitted as homework.
+
+
